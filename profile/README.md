@@ -1,1 +1,1 @@
-# POC's overview
+# Proof of concept
